@@ -15,6 +15,8 @@ Just completed a sales analysis for a retail company. I am excited to share my a
 ## Project Overview:
 The goal of this project was to analyze the sales performance of a retail company using data analysis tools. The sales data spanning from April 2017 – March 2020 with 121,980 rows. The analysis is aimed at uncovering trends, top-selling products, profitable sales channels, sales performance in countries, etc, Rigorous data cleaning, modeling, and visualization were conducted using Power BI. I gained invaluable insights into customer preference, sales patterns, and sales performance.
 
+<img width="614" alt="E-Commerce Sales Analysis Dashboard" src="https://github.com/Oludamilola87/Power-BI/assets/151797326/ad517d10-5c8a-4095-8238-0f27e775a25b">
+
 ## Data Source:
 Sales Data: The primary dataset used for this analysis is the sales_data.csv file, which contains detailed information about each sale made by the company. Dimensional table such as product category, geographical region, product, reseller, and date were created from the sales data. 
 
