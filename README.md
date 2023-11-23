@@ -40,10 +40,9 @@ EDA involved exploring the sales data to answer key questions:
 - what is the sales variance?
 - what is the percentage of total expenses to sales?
 - what is the total number of customers?
-- 
 
 ## Data analysis
-measures were created such as profit, previousyearsales, and count rows.
+Measures were created such as profit, previousyearsales, and count rows.
 
 ## Key Insights
 Our analysis revealed some key insights and we were able to use the key insights to make recommendations.
