@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis
-Just completed a sales analysis for a retail company. I am excited to share my analysis with you all for feedback on areas that require improvement.
+---
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -56,6 +56,9 @@ Our analysis revealed some key insights of the sales performance and we were abl
 
 ## Conclusion
 The project underlines the importance of leveraging data to optimize sales strategies to drive revenue. Through the analysis, I learned the importance of data-driven decision-making. I also gained valuable experience using Power BI for data analysis and visualization. 
+
+
+
 
 
 
