@@ -33,17 +33,20 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions:
-- What is the overall sales trend
-- what products are top sellers
-- what is the percentage of sales and profit by sales channel
-- What is the total sales by country
-- what is the sales variance
+- What is the overall sales trend?
+- what products are top sellers?
+- what is the percentage of sales and profit by sales channel?
+- What is the total sales by country?
+- what is the sales variance?
+- what is the percentage of total expenses to sales?
+- what is the total number of customers?
+- 
 
 ## Data analysis
 measures were created such as profit, previousyearsales, and count rows.
 
 ## Key Insights
-Our analysis revealed some key insights of the sales performance and we were able to use the key insights to make recommendations.
+Our analysis revealed some key insights and we were able to use the key insights to make recommendations.
 - Significant increase in sales in FY 2019 compared to FY 2020
 - Significant sales were generated in the product category named “Bikes” compared to others.
 - Significant sales were made through the reseller but contributed less than 1% to the profit
